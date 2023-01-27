@@ -7,8 +7,8 @@ body {
 }
 
 .offset:before {
-    height: 2rem;
-    margin-top: -2rem;
+    height: 1rem;
+    margin-top: -1rem;
     content: "";
     display: block;
 }
@@ -105,7 +105,7 @@ h3.heading {
     font-size: 1.9rem;
     font-weight: 700;
     text-transform: uppercase;
-    padding-bottom: 1.9rem;
+    padding: 1.9rem;
 }
 
 .heading-underline {
@@ -149,21 +149,20 @@ h3.heading {
 footer {
     background-color: #40474e;
     color: white;
-    padding: 2rem 0 3rem;
-    margin-top: 1rem;
 }
 
-footer img {
+/*footer img {
     height: 3rem;
     margin: 1.5rem 0;
 
-}
+}*/
 
 footer a {
     color: white;
 }
 
-footer svg.svg-inline--fa {
+
+/*footer svg.svg-inline--fa {
     font-size: 1.6rem;
     margin: 1.2rem .5rem 0 0;
 }
@@ -175,10 +174,10 @@ footer svg.svg-inline--fa:hover {
 hr.socket {
     border-top: .2rem solid #666b71;
     width: 100%;
-}
+}*/
 
-.fa-stack {
-    padding: 2rem;
+.fa-solid {
+    padding: 1rem;
     /*display: flex;
     align-items: center;
     justify-content: center;*/
