@@ -80,7 +80,7 @@ body {
 }
 
 
-/*=========== Course Section ============= */
+/*=========== About Section ============= */
 .narrow {
     width: 75%;
     margin: 0 auto;
@@ -115,7 +115,7 @@ h3.heading {
     margin: 0 auto 2rem;
 }
 
-/*-- Portfolio --*/
+/*-- Gallery --*/
 
 .gallery img {
     max-width: 100%;
@@ -139,10 +139,10 @@ h3.heading {
     width: 100%;
 }
 
-.card {
+/*.card {
     margin: 2rem;
 
-}
+}*/
 
 /*-- Contact --*/
 
@@ -151,38 +151,18 @@ footer {
     color: white;
 }
 
-/*footer img {
-    height: 3rem;
-    margin: 1.5rem 0;
-
-}*/
+.card {
+    width: 85%;
+    margin: 2rem;
+}
 
 footer a {
     color: white;
 }
 
-
-/*footer svg.svg-inline--fa {
-    font-size: 1.6rem;
-    margin: 1.2rem .5rem 0 0;
-}
-
-footer svg.svg-inline--fa:hover {
-    color: #1eeba3;
-}
-
-hr.socket {
-    border-top: .2rem solid #666b71;
-    width: 100%;
-}*/
-
 .fa-solid {
-    padding: 1rem;
-    /*display: flex;
-    align-items: center;
-    justify-content: center;*/
+    padding-right: 1rem;
 }
-
 /*-- Media Queries --*/
 
 @media (max-width: 767px) {
