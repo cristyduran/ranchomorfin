@@ -17,14 +17,14 @@ body {
 .navbar {
     text-transform: uppercase;
     font-weight: 700;
-    font-size: .9rem;
+    font-size: 1.1rem;
     letter-spacing: .1rem;
-    background-color: rgba(0, 0, 0, .6) !important;
+    background-color: rgba(0, 0, 0, .8) !important;
 }
 
-/*.navbar-brand {
-    height: 2rem;
-}*/
+.navbar-brand {
+    font-size: 1.5rem;
+}
 
 .navbar-nav li {
     padding-right: .7rem;
@@ -57,6 +57,11 @@ body {
     width: 100%;
     right: 0;
     left: 0;
+    z-index: 2;
+}
+
+.carousel-control-prev, .carousel-control-next, .carousel-indicators {
+    z-index: 3;
 }
 
 .carousel-caption h1 {
@@ -78,6 +83,19 @@ body {
     border-radius: 0;
     font-size: 1.1rem;
 }
+
+.drk:after {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: black;
+    opacity: 0.6;
+    z-index: 1;
+  }
 
 
 /*=========== About Section ============= */
