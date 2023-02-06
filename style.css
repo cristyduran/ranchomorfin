@@ -13,6 +13,10 @@ body {
     display: block;
 }
 
+p {
+    font-size: 1.25rem;
+}
+
 /*-- Navbar --*/
 .navbar {
     text-transform: uppercase;
