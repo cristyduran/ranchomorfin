@@ -1,18 +1,19 @@
 # ranchomorfin
 
-# _{Application Name}_
+#### By Cristy Duran
 
-#### By _**{List of contributors}**_
-
-#### _{Brief description of application}_
+#### Browser website made with Bootstrap for an outdoor venue business.
 
 ## Technologies Used
 
-* _List all_
-* _the major technologies_
-* _you used in your project_
-* _here_
+* Bootstrap
+* HTML
+* CSS
+* Javascript
 
 ## Description
+This browser website featuring Rancho Morfin is for users and potential customers to obtain further information when choosing
+Rancho Morfin as their special event venue. It features a carousel and gallery section where users can view in further detail
+the premise from differing angles. It also features a testimonial section and contact section. 
 
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
+Website currently under construction.
