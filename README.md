@@ -1,4 +1,4 @@
-# ranchomorfin
+# Rancho Morfin
 
 #### By Cristy Duran
 
